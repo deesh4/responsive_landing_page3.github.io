@@ -1,0 +1,23 @@
+.navbar{
+	    background-color:#84D0D9;
+	    }
+.navbar a{
+	    color:white;
+        font-family:Verdana, Geneva, sans-serif;
+		}
+.navbar a:hover{
+	    background-color:#5151FF;
+		}
+
+.header h1 {
+	    color:white;
+        font-family:Arial, Helvetica, sans-serif;}
+.header p {
+	     color:white;
+          font-family:Arial, Helvetica, sans-serif;}
+.navbar .navbar-nav > .active > a,
+.navbar .navbar-nav > .active > a:hover,
+.navbar .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color:#5151FF;
+}
